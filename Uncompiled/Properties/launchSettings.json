@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PAMS": {
+      "commandName": "Project",
+      "commandLineArgs": "\r\n"
+    }
+  }
+}

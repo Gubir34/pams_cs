@@ -1,0 +1,5 @@
+C:\Users\cante\Masaüstü\PAMS.exe
+C:\Users\cante\Masaüstü\PAMS.dll
+C:\Users\cante\Masaüstü\PAMS.deps.json
+C:\Users\cante\Masaüstü\PAMS.runtimeconfig.json
+C:\Users\cante\Masaüstü\PAMS.pdb

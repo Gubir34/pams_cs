@@ -1,0 +1,16 @@
+C:\Users\cante\source\repos\PAMS\PAMS\bin\Debug\net10.0\PAMS.exe
+C:\Users\cante\source\repos\PAMS\PAMS\bin\Debug\net10.0\PAMS.deps.json
+C:\Users\cante\source\repos\PAMS\PAMS\bin\Debug\net10.0\PAMS.runtimeconfig.json
+C:\Users\cante\source\repos\PAMS\PAMS\bin\Debug\net10.0\PAMS.dll
+C:\Users\cante\source\repos\PAMS\PAMS\bin\Debug\net10.0\PAMS.pdb
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.AssemblyInfoInputs.cache
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.AssemblyInfo.cs
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.csproj.CoreCompileInputs.cache
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.dll
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\refint\PAMS.dll
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.pdb
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.genruntimeconfig.cache
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\ref\PAMS.dll
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\Interop.IWshRuntimeLibrary.dll
+C:\Users\cante\source\repos\PAMS\PAMS\obj\Debug\net10.0\PAMS.csproj.ResolveComReference.cache
